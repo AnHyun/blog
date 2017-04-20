@@ -1,7 +1,7 @@
 # 我的博客
 个人博客---前路道长且阻，而我已一腔热血勇敢相迎。
 
-## [博客目录](https://github.com/jawil/blog/issues)
+## [博客目录](https://github.com/AnHyun/CoderBook/issues)
 
 > **博客签名：若批评无自由，则赞美无意义。**
 
@@ -11,7 +11,7 @@
 
 > **博客主人：Too young,too simple.Sometimes,naive & stupid.**
 
-> **博客座右铭：生活不止眼前的苟且，还有看不到的bug和读不懂的code。**
+> **博客座右铭：生活不止眼前的苟且，还有看不到的bug和读不懂的code(诗和远方)。**
 
   
 ## 2017
