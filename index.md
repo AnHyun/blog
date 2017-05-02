@@ -45,7 +45,7 @@
 
    
 ### February 
-*不知细叶谁裁出，二月春风似剪刀。*
+*二月云烟迷柳色，九衢风土带花香。*
 
 * February 26, 2017 **»** [一道JS面试题所引发的"血案"，透过现象寻本质，再从本质看现象](https://github.com/jawil/blog/issues/3)
 * February 24, 2017 **»** [吹毛求疵的追求优雅高性能JavaScript](https://github.com/jawil/blog/issues/2)
