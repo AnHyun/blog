@@ -25,6 +25,7 @@
 ### April
 *四月芳林何悄悄，绿阴满地青梅小。*
 
+* April 28, 2017 **»** [web前端开发规范 ](https://github.com/AnHyun/coderBook/issues/5)
 * April 24, 2017 **»** [web前端资源总结大全 ](https://github.com/AnHyun/coderBook/issues/4)
 * April 18, 2017 **»** [js字符串、数组和数字常用方法总结 ](https://github.com/AnHyun/coderBook/issues/3)
 * April 15, 2017 **»** [工欲善其事，必先利其器 ](https://github.com/AnHyun/coderBook/issues/2)
