@@ -15,6 +15,13 @@
 ## 2017
 **行远自迩，登高自卑，与君共勉。以学习者的身份记录博客。** [奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)
 
+   
+### May
+*五月榴花照眼明，枝间时见子初成。*
+
+* May 02, 2017 **»** [js的隐式和显示类型转换](https://github.com/AnHyun/coderBook/issues/6)
+
+   
 ### April
 *四月芳林何悄悄，绿阴满地青梅小。*
 
