@@ -19,6 +19,7 @@
 ### May
 *五月榴花照眼明，枝间时见子初成。*
 
+* May 10, 2017 **»** [html中引入调用另一个html的方法](https://github.com/AnHyun/coderBook/issues/8)
 * May 03, 2017 **»** [js正则表达式大全](https://github.com/AnHyun/coderBook/issues/7)
 * May 02, 2017 **»** [js的隐式类型转换和显示类型转换](https://github.com/AnHyun/coderBook/issues/6)
 
