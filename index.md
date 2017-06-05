@@ -19,7 +19,7 @@
 ### June
 *六月荷花香满湖，红衣绿扇映清波。*
 
-* June 5, 2017 **»** [JavaScript 解决浮点值运算Bug](https://github.com/AnHyun/coderBook/issues/13)
+* June 5, 2017 **»** [JS判断一个数组、JSON中是否有重复值的方法](https://github.com/AnHyun/coderBook/issues/13)
 
    
 ### May
