@@ -16,6 +16,12 @@
 **行远自迩，登高自卑，与君共勉。以学习者的身份记录博客。** [奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)
 
    
+### June
+*六月荷花香满湖，红衣绿扇映清波。*
+
+* June 5, 2017 **»** [JavaScript 解决浮点值运算Bug](https://github.com/AnHyun/coderBook/issues/13)
+
+   
 ### May
 *五月榴花照眼明，枝间时见子初成。*
 
