@@ -19,6 +19,7 @@
 ### June
 *六月荷花香满湖，红衣绿扇映清波。*
 
+* June 9, 2017 **»** [JQuery的ready函数与JS的onload的区别](https://github.com/AnHyun/coderBook/issues/15)
 * June 7, 2017 **»** [css清楚浮动的常用方法](https://github.com/AnHyun/coderBook/issues/14)
 * June 5, 2017 **»** [JS判断一个数组、JSON中是否有重复值的方法](https://github.com/AnHyun/coderBook/issues/13)
 
