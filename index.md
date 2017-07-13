@@ -19,7 +19,7 @@
 ### July
 *七月七日长生殿，夜半无人私语时。*
 
-* July 3, 2017 **»** [JQuery的ready函数与JS的onload的区别](https://github.com/AnHyun/coderBook/issues/15)
+* July 5, 2017 **»** [HTML5新特性之获取地理位置](https://github.com/AnHyun/coderBook/issues/16)
 
    
 ### June
