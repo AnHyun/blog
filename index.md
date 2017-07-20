@@ -19,7 +19,7 @@
 ### July
 *七月七日长生殿，夜半无人私语时。*
 
-* July 19, 2017 **»** [HTML5新特性之获取地理位置](https://github.com/AnHyun/coderBook/issues/17)
+* July 19, 2017 **»** [hexo搭建博客常用命令](https://github.com/AnHyun/coderBook/issues/17)
 * July 5, 2017 **»** [HTML5新特性之获取地理位置](https://github.com/AnHyun/coderBook/issues/16)
 
    
