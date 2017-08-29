@@ -16,6 +16,12 @@
 **行远自迩，登高自卑，与君共勉。以学习者的身份记录博客。** [奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)
 
    
+### August
+*八月霜飞柳半黄，蓬根吹断雁南翔。*
+
+* July 19, 2017 **»** [hexo搭建博客常用命令](https://github.com/AnHyun/coderBook/issues/17)
+
+   
 ### July
 *七月七日长生殿，夜半无人私语时。*
 
