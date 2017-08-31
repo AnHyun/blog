@@ -19,7 +19,7 @@
 ### August
 *八月霜飞柳半黄，蓬根吹断雁南翔。*
 
-* July 19, 2017 **»** [hexo搭建博客常用命令](https://github.com/AnHyun/coderBook/issues/17)
+* July 19, 2017 **»** [es6语法新特性基础篇](https://github.com/AnHyun/blog/issues/18)
 
    
 ### July
