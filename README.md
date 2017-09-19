@@ -19,7 +19,8 @@
 ### August
 *八月霜飞柳半黄，蓬根吹断雁南翔。*
 
-* July 31, 2017 **»** [es6语法新特性基础篇](https://github.com/AnHyun/blog/issues/18)
+* August 19, 2017 **»** [js常用的几种遍历方法](https://github.com/AnHyun/blog/issues/19)
+* August 5, 2017 **»** [es6语法新特性基础篇](https://github.com/AnHyun/blog/issues/18)
 
    
 ### July
