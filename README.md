@@ -19,7 +19,7 @@
 ### August
 *八月霜飞柳半黄，蓬根吹断雁南翔。*
 
-* August 27, 2017 **»** [git常用命令总结](https://github.com/AnHyun/blog/issues/21)
+* August 27, 2017 **»** [git常用命令清单](https://github.com/AnHyun/blog/issues/21)
 * August 26, 2017 **»** [gulp入门教程--学习篇](https://github.com/AnHyun/blog/issues/20)
 * August 19, 2017 **»** [js常用的几种遍历方法](https://github.com/AnHyun/blog/issues/19)
 * August 5, 2017 **»** [es6语法新特性基础篇](https://github.com/AnHyun/blog/issues/18)
