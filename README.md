@@ -18,7 +18,7 @@
    
 ### December
 *十二月严凝天地闭，莫嫌台榭无花卉。*
-* October 28, 2017 **»** [javascript获取一个数组中的相同元素个数的三种方法](https://github.com/AnHyun/blog/issues/22)
+
 
    
 ### November
