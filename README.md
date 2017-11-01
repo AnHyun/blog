@@ -16,6 +16,21 @@
 **行远自迩，登高自卑，与君共勉。以学习者的身份记录博客。** [奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)
 
    
+### December
+*十二月严凝天地闭，莫嫌台榭无花卉。*
+* October 28, 2017 **»** [javascript获取一个数组中的相同元素个数的三种方法](https://github.com/AnHyun/blog/issues/22)
+
+   
+### November
+*十一月都城居暖阁，吴中雪纸明如垩*
+
+
+   
+### October
+*十月轻寒生晚暮，霜华暗卷楼南树*
+* October 28, 2017 **»** [javascript获取一个数组中的相同元素个数的三种方法](https://github.com/AnHyun/blog/issues/22)
+
+   
 ### September
 *九月登临须有意，七年岐路亦堪愁。*
 
