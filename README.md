@@ -16,6 +16,12 @@
 **行远自迩，登高自卑，与君共勉。以学习者的身份记录博客。** [奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)
 
    
+### September
+*九月登临须有意，七年岐路亦堪愁。*
+
+* September 28, 2017 **»** [git常用命令清单](https://github.com/AnHyun/blog/issues/22)
+
+   
 ### August
 *八月霜飞柳半黄，蓬根吹断雁南翔。*
 
