@@ -19,7 +19,7 @@
 ### September
 *九月登临须有意，七年岐路亦堪愁。*
 
-* September 28, 2017 **»** [git常用命令清单](https://github.com/AnHyun/blog/issues/22)
+* September 28, 2017 **»** [javascript获取一个数组中的相同元素个数的三种方法](https://github.com/AnHyun/blog/issues/22)
 
    
 ### August
