@@ -28,7 +28,7 @@
    
 ### October
 *十月轻寒生晚暮，霜华暗卷楼南树*
-* October 28, 2017 **»** [javascript获取一个数组中的相同元素个数的三种方法](https://github.com/AnHyun/blog/issues/22)
+
 
    
 ### September
