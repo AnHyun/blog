@@ -5,41 +5,33 @@
 
 > **博客宗旨：从现象看本质，再从本质回归到现象。**
 
-> **博客目的：给老夫一个回头看看自己精神世界的时光机。**
+> **博客目的：风起于青萍之末，浪成于微澜之间。**
 
-> **博客主人：Too young,too simple.Sometimes,naive & stupid.**
-
-> **博客座右铭：生活不止眼前的苟且，还有看不到的bug和读不懂的code(诗和远方)。**
+> **博客座右铭：生活不止眼前的苟且，还有诗和远方。**
 
   
 ## 2017
 **行远自迩，登高自卑，与君共勉。以学习者的身份记录博客。** [奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)
 
-   
-### December
-*十二月严凝天地闭，莫嫌台榭无花卉。*
-
 
    
 ### November
-*十一月都城居暖阁，吴中雪纸明如垩*
+
 * November 24, 2017 **»** [script中defer和async的区别](https://github.com/AnHyun/blog/issues/25)
 
    
 ### October
-*十月轻寒生晚暮，霜华暗卷楼南树*
+
 * October 29, 2017 **»** [我所知道的CSS——CSS单位px、em、rem、vh、vw](https://github.com/AnHyun/blog/issues/24)
 * October 28, 2017 **»** [我所知道的CSS——盒模型（box model）详解 ](https://github.com/AnHyun/blog/issues/23)
 
    
 ### September
-*九月登临须有意，七年岐路亦堪愁。*
 
 * September 28, 2017 **»** [javascript获取一个数组中的相同元素个数的三种方法](https://github.com/AnHyun/blog/issues/22)
 
    
 ### August
-*八月霜飞柳半黄，蓬根吹断雁南翔。*
 
 * August 27, 2017 **»** [git常用命令清单](https://github.com/AnHyun/blog/issues/21)
 * August 26, 2017 **»** [gulp入门教程--学习篇](https://github.com/AnHyun/blog/issues/20)
@@ -48,14 +40,12 @@
 
    
 ### July
-*七月桐风刮帐无春温，赤精解绶佩金神。*
 
 * July 19, 2017 **»** [hexo搭建博客常用命令](https://github.com/AnHyun/coderBook/issues/17)
 * July 5, 2017 **»** [HTML5新特性之获取地理位置](https://github.com/AnHyun/coderBook/issues/16)
 
    
 ### June
-*六月荷花香满湖，红衣绿扇映清波。*
 
 * June 9, 2017 **»** [JQuery的ready函数与JS的onload的区别](https://github.com/AnHyun/coderBook/issues/15)
 * June 7, 2017 **»** [css清楚浮动的常用方法](https://github.com/AnHyun/coderBook/issues/14)
@@ -63,7 +53,6 @@
 
    
 ### May
-*五月榴花照眼明，枝间时见子初成。*
 
 * May 27, 2017 **»** [JavaScript 解决浮点值运算Bug](https://github.com/AnHyun/coderBook/issues/12)
 * May 26, 2017 **»** [MySQL的简单查询语句](https://github.com/AnHyun/coderBook/issues/11)
@@ -75,7 +64,6 @@
 
    
 ### April
-*四月芳林何悄悄，绿阴满地青梅小。*
 
 * April 28, 2017 **»** [web前端开发规范 ](https://github.com/AnHyun/coderBook/issues/5)
 * April 24, 2017 **»** [web前端资源总结大全 ](https://github.com/AnHyun/coderBook/issues/4)
@@ -89,7 +77,6 @@
 
    
 ### March
-*三月残花落更开，小檐日日燕飞来。*
 
 * March 16, 2017 **»** [关于Node进程管理器PM2使用技巧和需要注意的地方](https://github.com/jawil/blog/issues/7)
 * March 5, 2017 **»** [从++\[\[\]\][+\[]\]+\[+\[\]\]==10?深入浅出弱类型JS的隐式转换](https://github.com/jawil/blog/issues/5)
@@ -97,7 +84,6 @@
 
    
 ### February 
-*二月云烟迷柳色，九衢风土带花香。*
 
 * February 26, 2017 **»** [一道JS面试题所引发的"血案"，透过现象寻本质，再从本质看现象](https://github.com/jawil/blog/issues/3)
 * February 24, 2017 **»** [吹毛求疵的追求优雅高性能JavaScript](https://github.com/jawil/blog/issues/2)
