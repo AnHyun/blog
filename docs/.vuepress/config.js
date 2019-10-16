@@ -69,12 +69,12 @@ module.exports = {
 
 	            ]
 	        },
-	        {
-	            title: '综合',
-	            children: [
-	                '/basics/综合/【自检】前端知识清单',
-	            ]
-	        },
+	        // {
+	        //     title: '综合',
+	        //     children: [
+	        //         '/basics/综合/【自检】前端知识清单',
+	        //     ]
+	        // },
     	],
     	'/advance/': [
     		'/advance/',
