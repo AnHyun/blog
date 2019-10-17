@@ -7,7 +7,7 @@
 技术架构： [前端p7架构图谱](./综合/前端p7架构图谱.html)
 
 
-![](../images/advance.png)
+![](../images/advance/advance.png)
 
 ### vueJs
 

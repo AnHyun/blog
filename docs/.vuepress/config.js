@@ -141,7 +141,8 @@ module.exports = {
 	        {
 	            title: '数据结构和算法',
 	            children: [
-
+	            	'/advance/数据结构/',
+	            	'/advance/算法/',
 	            ]
 	        },
 	        {

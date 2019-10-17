@@ -7,7 +7,7 @@
 知识体系： [【自检】前端知识清单](./综合/【自检】前端知识清单.html)
 
 
-![](../images/basics.png)
+![](../images/basics/basics.png)
 
 ### Javascript基础
 
