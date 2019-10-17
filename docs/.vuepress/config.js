@@ -14,7 +14,7 @@ module.exports = {
     nav:[ // 导航栏配置
       {text: '基础·自检', link: '/basics/' },
       {text: '进阶·架构', link: '/advance/'},
-      {text: '求职·面试', link: '/interview/'},
+      {text: '面试·图谱', link: '/interview/'},
       {text: 'github', link: 'https://github.com/AnHyun'},       
     ],
     sidebarDepth: 2,
