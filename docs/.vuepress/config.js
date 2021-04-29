@@ -24,13 +24,13 @@ module.exports = {
     		{
 	            title: 'Javascript基础',
 	            children: [
-
+	            	'/basics/Javascript基础/js的变量和类型',
 	            ]
 	        },
 	        {
 	            title: 'HTML和CSS',
 	            children: [
-
+	            	'/basics/HTML和CSS/js中的width,height,scroll',
 	            ]
 	        },
 	        {
@@ -69,12 +69,12 @@ module.exports = {
 
 	            ]
 	        },
-	        // {
-	        //     title: '综合',
-	        //     children: [
-	        //         '/basics/综合/【自检】前端知识清单',
-	        //     ]
-	        // },
+	        {
+	            title: '综合',
+	            children: [
+	                '/basics/综合/【自检】前端知识清单',
+	            ]
+	        },
     	],
     	'/advance/': [
     		'/advance/',
@@ -151,6 +151,12 @@ module.exports = {
 
 	            ]
 	        },
+	        {
+	            title: '综合',
+	            children: [
+	                '/advance/综合/前端p7架构图谱',
+	            ]
+	        },
     	],
     	'/interview/': [
     		'/interview/',
@@ -187,7 +193,8 @@ module.exports = {
 	        {
 	            title: '编程题',
 	            children: [
-
+	            	'/interview/编程题/js基础',
+	            	'/interview/编程题/算法',
 	            ]
 	        },
 	        {
